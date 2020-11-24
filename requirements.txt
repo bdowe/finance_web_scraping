@@ -1,0 +1,6 @@
+pandas
+requests
+jupyter
+beautifulsoup4
+lxml
+# plotly=4.4.1

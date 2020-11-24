@@ -1,0 +1,32 @@
+{
+    "CONSOLIDATED STATEMENTS OF OPERATIONS": [
+        "Net income (loss)", 
+        "Net loss",
+        "Revenue", 
+        "Net revenue", 
+        "Income from operations", 
+        "Operating income",
+        "Operating income (loss)",
+        "Operating loss"
+    ],
+    "CONSOLIDATED STATEMENTS OF INCOME": ["Net income", "Revenue", "Income from operations"], 
+    "CONSOLIDATED BALANCE SHEETS": [
+        "Convertible long-term debt", 
+        "Long-term debt", 
+        "Long-term debt, net",
+        "Total liabilities", 
+        "Total shareholders' equity", 
+        "Total stockholders' equity", 
+        "Total stockholders' equity (deficit)", 
+        "Total stockholders’ equity",
+        "Total stockholders’ equity (deficit)",
+        "Total shareholders’ equity",
+        "Total liabilities and shareholders' equity", 
+        "Total liabilities and stockholders' equity",
+        "Total liabilities and stockholders' equity (deficit)",
+        "Total liabilities and shareholders’ equity", 
+        "Total liabilities and stockholders’ equity",
+        "Total liabilities and stockholders’ equity (deficit)"
+    ], 
+    "CONSOLIDATED STATEMENTS OF CASH FLOWS": ["Dividends paid", "Payments of Dividends"]
+}
